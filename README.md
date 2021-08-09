@@ -6,6 +6,11 @@
 
 ## <font size=5>工作及教育经历</font>
 
+__<font size=4>新东方教育集团&emsp;&emsp;&emsp;2021.07~至今</font>__
+__布局未来部&emsp;&emsp;前端开发__
+  
+  任职前端开发工程师，负责课件制作平台前端研发。
+
 __<font size=4>VIPKID&emsp;&emsp;&emsp;2018.06~至今</font>__  
 __在线教室/启蒙研发部&emsp;&emsp;前端开发__  
 技术栈：react、redux、vue、vuex、vue-router、typescript  
