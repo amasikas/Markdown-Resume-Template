@@ -1,15 +1,15 @@
 ## <font size=5>毛潇潇</font>
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：31
-* 学 历：本科&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：前端开发
-* 手 机：18311038973&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：maoxiaoxiao916@outlook.com
+* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;岗 位：前端开发
+* 学 历：本科&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;邮 箱：maoxiaoxiao916@outlook.com
+* 手 机：18311038973&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ## <font size=5>工作及教育经历</font>
 
-__<font size=4>新东方教育集团&emsp;&emsp;&emsp;2021.07~至今</font>__  
-__布局未来部&emsp;&emsp;前端开发__
-  
-  任职前端开发工程师，负责课件制作平台前端研发。
+__<font size=4>新东方教育集团&emsp;&emsp;&emsp;2021.07~2021.09</font>__  
+__布局未来部&emsp;&emsp;前端开发__  
+技术栈：react
+任职前端开发工程师，负责课件制作平台前端研发。
 
 __<font size=4>VIPKID&emsp;&emsp;&emsp;2018.06~2021.07</font>__  
 __在线教室/启蒙研发部&emsp;&emsp;前端开发__  
@@ -26,15 +26,12 @@ __在线教室/启蒙研发部&emsp;&emsp;前端开发__
 __<font size=4>和合生活网&emsp;&emsp;&emsp;2016.03~2018.02</font>__  
 __研发部&emsp;&emsp;研发经理__  
 技术栈：react、redux、django  
-筹备合伙创业，负责分销会员系统、积分商城等项目的开发工作。
+合伙创业，负责分销会员系统、积分商城等项目的开发工作。
 
 __<font size=4>创新工场&emsp;&emsp;&emsp;2015.04~2016.02</font>__  
 __秘密app团队&emsp;&emsp;前端开发__  
 技术栈：jquery、django  
 任职前端开发工程师，负责开发秘密pc及hybrid app相关前端页面、活动H5的前后端开发等。
-
-__<font size=4>自主创业&emsp;&emsp;&emsp;2013.07~2015.03</font>__
-与研发工作无关
 
 __<font size=4>成都信息工程大学（信息对抗专业-本科）&emsp;&emsp;&emsp;2009.09~2013.07</font>__
 
